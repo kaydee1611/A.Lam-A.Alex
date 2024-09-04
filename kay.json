@@ -1,36 +1,4 @@
 {
-    "Game": {
-      "A": {
-        "botUrl": "",
-        "checkDieSelector": "",
-        "launchGameButtonSelector": "",
-        "captchaLaunchSelector": "",
-        "iframeSrcStart": "",
-        "sessionStorageKey": ""
-      },
-      "B": {
-        "botUrl": "",
-        "checkDieSelector": "",
-        "launchGameButtonSelector": "",
-        "captchaLaunchSelector": "",
-        "iframeSrcStart": "",
-        "sessionStorageKey": ""
-      },
-      "C": {
-        "botUrl": "",
-        "checkDieSelector": "",
-        "launchGameButtonSelector": "",
-        "captchaLaunchSelector": "",
-        "iframeSrcStart": "",
-        "sessionStorageKey": ""
-      },
-      "D": {
-        "botUrl": "",
-        "checkDieSelector": "",
-        "launchGameButtonSelector": "",
-        "captchaLaunchSelector": "",
-        "iframeSrcStart": "",
-        "sessionStorageKey": ""
-      }
-    }
-  }
+  "catsgang_bot": "console.log('Hello from catgangs);",
+  "blum": "console.log('Hello from blum');"
+}
