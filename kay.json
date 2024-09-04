@@ -1,4 +1,4 @@
 {
-  "catsgang_bot": "const el=document.evaluate("//span[text()='Wow, let’s go!']",document,null,XPathResult.FIRST_ORDERED_NODE_TYPE,null).singleNodeValue;if(el){el.click();}",
+  "catsgang_bot": "const el=document.evaluate(\"//span[text()='Wow, let’s go!']\",document,null,XPathResult.FIRST_ORDERED_NODE_TYPE,null).singleNodeValue;if(el){el.click();}",
   "blum": "console.log('Hello from blum');"
 }
